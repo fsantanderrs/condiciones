@@ -1,0 +1,18 @@
+  h1, p {
+    text-align: center;
+  }
+  
+  .boton {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .seleccion {
+    display: flex;
+    justify-content: center;
+  }
+  body{
+    height: 100hv;
+    width: 100wv;
+    text-align: center;
+  }
